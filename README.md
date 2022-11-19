@@ -22,7 +22,7 @@ end
 -- outputs: x: 5    y: 5
 ```
 
-### Description of operation
+### Description
 
 __intersections__(`polygon`, `filterFunc`)
 
